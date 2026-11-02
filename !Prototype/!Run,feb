@@ -1,0 +1,4 @@
+Set Prototype$Dir <Obey$Dir>
+IconSprites <Obey$Dir>.!Sprites
+wimpslot -min 8096K -max 8096K
+Run <Prototype$Dir>.!RunImage
